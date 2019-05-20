@@ -6,5 +6,5 @@ edition = "2018"
 license = "MIT/Apache2"
 
 [dependencies]
-winit = { git = "https://github.com/crlf0710/winit", branch = "eventloop-2.0"}
+winit = { git = "https://github.com/crlf0710/winit", branch = "stable"}
 winapi = { version = "0.3", features = ["winuser"]}
